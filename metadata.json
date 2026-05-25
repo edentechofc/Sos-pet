@@ -1,0 +1,6 @@
+{
+  "name": "SOS Pet - Guia de Emergencia",
+  "description": "Uma landing page interativa e de alta conversão para o infoproduto SOS Pet: Guia de Emergências para Tutores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
